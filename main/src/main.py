@@ -1,5 +1,5 @@
 import argparse
-from utils.hashmap_utils import load_crime_data
+from utils.hashmap import load_crime_data
 from algorithms.greedy import greedy_allocation
 
 def main(algorithm, resource_limit):
