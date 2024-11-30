@@ -1,1 +1,6 @@
-
+AreaID,Priority,ResourceRequirement
+101,50,3
+102,40,2
+103,60,5
+104,20,1
+105,30,2
