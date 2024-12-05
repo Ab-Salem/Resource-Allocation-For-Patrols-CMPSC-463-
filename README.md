@@ -155,13 +155,61 @@ Two plots are generated:
    - Resources used
    - Areas covered/uncovered
 
----
+   ![image](https://github.com/user-attachments/assets/6965eb33-60b2-4cde-bc09-341e7f29229e)
 
-## **Future Enhancements**
-1. Add more optimization algorithms
-2. Implement multi-objective optimization
-3. Add temporal analysis of resource allocation
-4. Enhance visualization with interactive features
+
+---
+## **Discussion and Conclusions**
+
+### **Project Achievements**
+- Successfully implemented multiple resource allocation algorithms for police patrol optimization
+- Developed visualization tools for analyzing patrol coverage
+- Created a scalable system handling 300+ patrol areas
+- Achieved efficient resource utilization with priority-based allocation
+
+### **Technical Implementation**
+Applied key course concepts:
+- **Data Structures**: Implemented hashmaps for O(1) lookup of area information
+- **Algorithm Design**: Developed greedy and genetic algorithms showcasing different optimization approaches
+- **Time Complexity**: Optimized code for handling large datasets efficiently
+- **Space Complexity**: Managed memory usage through efficient data structures
+
+### **Limitations and Challenges**
+
+1. **Algorithm Limitations**:
+   - Greedy algorithm may miss global optimum solutions
+   - Genetic algorithm's randomness affects consistency
+   - No guarantee of finding perfect allocation solutions
+
+2. **Real-World Constraints Not Modeled**:
+   - Does not consider patrol unit travel time
+   - Lacks temporal crime pattern analysis
+   - No integration with real-time incident data
+   - Doesn't account for overlapping patrol areas
+
+3. **Technical Constraints**:
+   - Limited to static priority values
+   - No handling of emergency reallocation
+   - Simplified resource requirements model
+
+### **Future Work**
+
+1. **Algorithm Improvements**:
+   - Implement machine learning for priority prediction
+   - Add dynamic programming solution
+   - Include multi-objective optimization
+
+2. **Feature Additions**:
+   - Real-time data integration
+   - Geographic information system (GIS) integration
+   - Temporal analysis of crime patterns
+   - Interactive visualization dashboard
+
+3. **Real-World Enhancements**:
+   - Shift scheduling integration
+   - Emergency response considerations
+   - Multi-precinct coordination
+   - Officer expertise matching
 
 ---
 
