@@ -75,7 +75,7 @@ cd main
 ### **Step 2: Generate Test Data**
 Generate sample crime data using the provided script:
 ```bash
-python generate_data.py 
+python data/generate_data.py 
 ```
 This creates a CSV file in the data directory with 300 areas.
 
