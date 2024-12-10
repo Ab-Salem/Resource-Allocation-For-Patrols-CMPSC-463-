@@ -1,5 +1,7 @@
 # **Resource Allocation for Police Patrols**
 
+Link to Powerpoint: https://docs.google.com/presentation/d/1tc6zfjo776iIleKq4Qc-Ase5NmZ0tWWqiEHNmh9qW-4/edit?usp=sharing
+
 ## **Overview**
 This project addresses a critical challenge in law enforcement: optimizing the deployment of police patrol units across different areas of a city to maximize crime prevention and response capabilities. By strategically allocating limited police resources to areas based on their crime rates and priority levels, the system aims to enhance public safety while efficiently utilizing available patrol units.
 
